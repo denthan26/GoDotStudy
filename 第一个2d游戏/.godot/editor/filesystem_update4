@@ -1,6 +1,2 @@
-res://说明/项目步骤说明.txt
-res://说明/项目说明.md
-res://说明/player.md
-res://说明/player.tscn
-res://player/player.tscn
-res://player/player.gd
+res://Mod/mod.tscn
+res://Mod/mod.gd
