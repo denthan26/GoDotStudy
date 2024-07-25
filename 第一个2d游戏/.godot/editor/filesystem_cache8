@@ -1,7 +1,8 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1721869585
+::res://::1721872027
 icon.svg::CompressedTexture2D::197588617895285298::1721790651::1721790657::1::::<><>::
-::res://art/::1721869786
+Main.gd::GDScript::-1::1721872027::0::1::::<>Node<>::
+::res://art/::1721869790
 enemyFlyingAlt_1.png::CompressedTexture2D::2540961667985315086::1721784044::1721869790::1::::<><>::
 enemyFlyingAlt_2.png::CompressedTexture2D::4959673768215991353::1721784044::1721869790::1::::<><>::
 enemySwimming_1.png::CompressedTexture2D::4544421039175896477::1721784044::1721869790::1::::<><>::
@@ -13,7 +14,9 @@ playerGrey_up2.png::CompressedTexture2D::7012449925246244827::1721784044::172180
 playerGrey_walk1.png::CompressedTexture2D::3661821941331390483::1721784044::1721801553::1::::<><>::
 playerGrey_walk2.png::CompressedTexture2D::8657483903096839992::1721784044::1721801553::1::::<><>::
 ::res://fonts/::1721800360
-::res://Mod/::1721869585
+::res://Mod/::1721870525
+mod.gd::GDScript::-1::1721870504::0::1::::<>RigidBody2D<>::
+mod.tscn::PackedScene::3709044936939922640::1721870525::0::1::::<><>::res://Mod/mod.gd<>uid://bcg4jdff1k2ny::::res://art/enemyFlyingAlt_1.png<>uid://ccwrdqktpr21b::::res://art/enemyFlyingAlt_2.png<>uid://b50l7k4c54j6t::::res://art/enemySwimming_1.png<>uid://clq410evb61i0::::res://art/enemySwimming_2.png<>uid://kqlpyxcoh6xp::::res://art/enemyWalking_1.png<>uid://c2jys00s000du::::res://art/enemyWalking_2.png
 ::res://player/::1721807261
 player.gd::GDScript::-1::1721807261::0::1::::<>Area2D<>::
 player.tscn::PackedScene::4875114358822714366::1721807261::0::1::::<><>::res://player/player.gd<>uid://bsf2w4jayivux::::res://art/playerGrey_walk1.png<>uid://dvl0q3h4ndf4c::::res://art/playerGrey_walk2.png<>uid://drjjx1mlqhgy0::::res://art/playerGrey_up1.png<>uid://c655a40tl02n4::::res://art/playerGrey_up2.png

@@ -1,2 +1,3 @@
-res://Mod/mod.tscn
-res://Mod/mod.gd
+res://Main.gd
+res://main/main.tscn
+res://player/player.tscn
